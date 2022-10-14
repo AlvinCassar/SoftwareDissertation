@@ -1,0 +1,17 @@
+[1]
+Title: A review on the current applications of artificial intelligence in the operating room
+
+Year: 2021
+
+Citations: 13
+
+Type of paper: Review of 9 other papers
+
+Cho et al
+Gesture Recognition: SVM 99.58%, Naive Bayes 98.74%
+
+Hashimoto et al.
+Automatic Video Segmentation 82% accuracy
+
+Phase Recognition
+17 CNN+HMM 90%
